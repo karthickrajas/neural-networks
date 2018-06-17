@@ -1,3 +1,5 @@
 This repository has all deep learning training files.
 
-The folder will be updated once every week
+The folder will be updated once every week.
+
+All datasets being used are open source
